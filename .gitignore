@@ -5,6 +5,7 @@ __pycache__/
 *.py.*
 *.pyc
 *.pyc.*
+.ipynb_checkpoints/
 *.jpg
 !data/*jpg
 !imgs/*jpg
